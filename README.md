@@ -5,7 +5,7 @@
 - 💬 Ask me about product strategy
 - 📫 How to reach me: [dean.coffee](dean.coffee)
 
-# Tech I 🫶  
+## Tech I 🫶  
 
 | Category         | Technology                                     | Description                                                                                          |
 |------------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------|

@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 - 🌱 I’m currently learning to master handmade pasta
 - 👯 I’m looking to collaborate on [outpost.chat](outpost.chat)

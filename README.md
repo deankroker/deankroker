@@ -1,4 +1,4 @@
-# Hey, I'm Dean 👋
+# Hi 👋
 
 **Director of Product @ Microsoft** · Los Angeles, CA
 
